@@ -1,4 +1,4 @@
-### Ola Eu Sou o João Otavio, Bem vindo Ao meu GITHub !
+### Fala Dev, Welcome ao meu GIThub! 
 
 
 - 🌱 Eu estou aprendo as linguagens JavaScript e TypeScript! 
