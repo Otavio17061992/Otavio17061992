@@ -1,3 +1,5 @@
+
+<div style="align: center">
 Function WhileAlive() {<br>
     while(alive) {<br>
      eat();<br>
@@ -7,8 +9,7 @@ Function WhileAlive() {<br>
      repeat();<br>
    }<br>
 }   <br>
-
-    <div align="center">
+</div>
   <a href="https://github.com/Otavio17061992">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Otavio17061992&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otavio17061992&layout=compact&langs_count=7&theme=tokyonight"/>
