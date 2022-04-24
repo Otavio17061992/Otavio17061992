@@ -2,11 +2,11 @@
 ### Bem vindo ao meu perfil GitHub 👋
 
 
-
+<h1>👨‍💻 GitHub account information</h1>
 <div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otavio17061992&layout=compact&langs_count=7&theme=tokyonight"/>
   <a href="https://github.com/Otavio17061992">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Otavio17061992&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otavio17061992&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -20,7 +20,7 @@
   ### Contatos:
 
 <div>
-<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://https://www.instagram.com/jubileu.life/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:contato@seu-usuário-aqui"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
