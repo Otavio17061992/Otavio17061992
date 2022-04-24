@@ -1,7 +1,7 @@
 
 <div style="text-align: center">
-    <h1>Function WhileAlive()</h1> {<br>
-    <h2>while(alive)</h2> {<br>
+    <h3>Function WhileAlive()</h3> {<br>
+    <h3>while(alive)</h3> {<br>
     <h3>eat();</h3><br>
     <h4>sleep();</h4><br>
     <h5>code();</h5><br>
