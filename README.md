@@ -1,6 +1,6 @@
 
-<div style="align: center">
-Function WhileAlive() {<br>
+<div style="text-align: center">
+    <h1>Function WhileAlive</h1>() {<br>
     while(alive) {<br>
      eat();<br>
      sleep();<br>
