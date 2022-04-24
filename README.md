@@ -1,12 +1,12 @@
-Function WhileAlive() {
-    while(alive) {
-     eat();
-     sleep();
-     code();
-     Work();
-     repeat();
-   }
-}   
+Function WhileAlive() {<br>
+    while(alive) {<br>
+     eat();<br>
+     sleep();<br>
+     code();<br>
+     Work();<br>
+     repeat();<br>
+   }<br>
+}   <br>
 
     <div align="center">
   <a href="https://github.com/Otavio17061992">
