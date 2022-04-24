@@ -1,7 +1,12 @@
-### Fala Dev, Welcome ao meu GIThub! 
-
-
-- 🌱 Eu estou aprendo as linguagens JavaScript e TypeScript! 
+Function WhileAlive() {
+    while(alive) {
+     eat();
+     sleep();
+     code();
+     Work();
+     repeat();
+   }
+}   
 
     <div align="center">
   <a href="https://github.com/Otavio17061992">
