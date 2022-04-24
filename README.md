@@ -1,14 +1,14 @@
 
 <div style="text-align: center">
-    <h1>Function WhileAlive</h1>() {<br>
-    while(alive) {<br>
-     eat();<br>
-     sleep();<br>
-     code();<br>
-     Work();<br>
-     repeat();<br>
-   }<br>
-}   <br>
+    <h1>Function WhileAlive()</h1> {<br>
+    <h2>while(alive)</h2> {<br>
+    <h3>eat();</h3><br>
+    <h4>sleep();</h4><br>
+    <h5>code();</h5><br>
+    <h6>Work();</h6><br>
+    <h6>repeat();</h6><br>
+    <h4>}</h4><br>
+    <h4>}</h4><br>
 </div>
 <div style="align: center">
   <a href="https://github.com/Otavio17061992">
