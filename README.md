@@ -1,6 +1,10 @@
 ## Olá, me chamo João Otavio ! 
 ### Bem vindo ao meu perfil GitHub 👋
 
+# Sou Dev Junior digamos que Sou um Juninho rs....... 
+#Evoluindo , entre console.log() e document.Write
+#vou constantemente construindo meu futuro!
+
 
 <h1>👨‍💻 GitHub account information</h1>
 <div align="center">
