@@ -4,7 +4,8 @@
 <strong>Sou Dev Junior digamos que Sou um Juninho rs...</strong> 
 <p>Evoluindo , entre console.log() e document.Write</p> 
 <strong>vou constantemente construindo meu futuro!</strong>
-
+ <br>
+  <br>
 <div align="center">
 <h1>👨‍💻 GitHub account information</h1>
 </div>  
@@ -13,6 +14,11 @@
   <a href="https://github.com/Otavio17061992">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Otavio17061992&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
+  <br>
+  <br>
+  <br>
+ 
+  <h1>👨‍💻👨‍🎨My Skills</h1>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Jon-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
