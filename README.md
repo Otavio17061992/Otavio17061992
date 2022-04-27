@@ -5,6 +5,8 @@
 <p>Evoluindo , entre console.log() e document.Write</p> 
 <strong>vou constantemente construindo meu futuro!</strong>
  <br>
+ 
+<h1> Meu Curriculo  <a href="https://github.com/Otavio17061992/logicalJS/files/8567943/joao.mesquita.pdf">👉Click em mim👨‍🎓 </a></h1>
   <br>
 <div align="center">
 <h1>👨‍💻 GitHub account information</h1>
