@@ -9,7 +9,7 @@
 <h1> Meu Curriculo  <a href="https://github.com/Otavio17061992/logicalJS/files/8567943/joao.mesquita.pdf">👉Click em mim👨‍🎓 </a></h1>
   <br>
 <div align="center">
-<h1>👨‍💻 GitHub account information</h1>
+<h1>👨‍💻 Informações do meu Github</h1>
 </div>  
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otavio17061992&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -20,7 +20,7 @@
   <br>
   <br>
  
-  <h1>👨‍💻👨‍🎨My Skills</h1>
+  <h1>👨‍💻👨‍🎨Minhas Habilidadess</h1>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Jon-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
