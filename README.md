@@ -13,36 +13,7 @@
   <br>
 <div align="center">
 <h1>👨‍💻 Informações do meu Github</h1>
-</div>  
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otavio17061992&layout=compact&langs_count=7&theme=tokyonight"/>
-  <a href="https://github.com/Otavio17061992">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Otavio17061992&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
- 
- <br/><br/>
-
-<p align="center">
-
-  <a alt="trophy" href="https://github.com/Otavio17061992">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=Otavio17061992&theme=tokyonight"/>
-  </a>
-  
-</p>
-
-<br/><br/>
-
-<p align="center">
-  
-  <a href="https://github.com/Otavio17061992" alt="Git Graph">
-    <img height="250em" width="auto" align="center" src="https://activity-graph.herokuapp.com/graph?username=Otavio17061992&theme=tokyonight" />
-  </a>
-
-</p>
-  
-<br/><br/>
-
-<p align="center">
+  <p align="center">
       
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Otavio17061992&theme=tokyonight" alt="Otavio17061992" />
   
@@ -52,9 +23,24 @@
   
 </p>
  
- 
- 
- 
+  
+  
+  
+  <p align="center">
+  
+  <a href="https://github.com/Otavio17061992" alt="Git Graph">
+    <img height="250em" width="auto" align="center" src="https://activity-graph.herokuapp.com/graph?username=Otavio17061992&theme=tokyonight" />
+  </a>
+
+</p>
+  
+  <p align="center">
+
+  <a alt="trophy" href="https://github.com/Otavio17061992">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=Otavio17061992&theme=tokyonight"/>
+  </a>
+  
+  </p> 
   <br>
   <br>
   <br>
