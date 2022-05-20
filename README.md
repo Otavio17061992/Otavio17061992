@@ -26,13 +26,7 @@
   
   
   
-  <p align="center">
-  
-  <a href="https://github.com/Otavio17061992" alt="Git Graph">
-    <img height="250em" width="auto" align="center" src="https://activity-graph.herokuapp.com/graph?username=Otavio17061992&theme=tokyonight" />
-  </a>
 
-</p>
   
   <p align="center">
 
