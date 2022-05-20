@@ -19,7 +19,7 @@
   
   <br>
   
-  <img src="https://komarev.com/ghpvc/?username=Otavio17061992&label=Profile%20views&color=dd6387&style=flat" alt="Otavio17061992" />
+  
   
 </p>
  
