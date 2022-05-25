@@ -4,29 +4,20 @@
 </div> 
 
 
-<p align="center">Front End </p>
-<p align="center">Brazilian developer</p>
-
-
+<div align ='center'>
+  <h2> Minha Musica favorita </h2>
+<img src = "https://spotify-github-profile.vercel.app/api/view?uid=31o2szwvszbaxaxntowvu3wrn4ja&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile "/>
+   </div>
  
-<h1> Meu Curriculo  <a href="https://github.com/Otavio17061992/logicalJS/files/8567943/joao.mesquita.pdf">👉Click em mim👨‍🎓 </a></h1>
   <br>
 <div align="center">
 <h1>👨‍💻 Informações do meu Github</h1>
-  <p align="center">
-      
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Otavio17061992&theme=tokyonight" alt="Otavio17061992" />
-  
-  <br>
-  
-  
-  
-</p>
+  <div align="center">
+  <a href="https://github.com/Otavio17061992">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Otavio17061992&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otavio17061992&layout=compact&langs_count=7&theme=dracula"/>
+</div>
  
-  
-  
-  
-
   
   <p align="center">
 
@@ -35,8 +26,6 @@
   </a>
   
   </p> 
-  <br>
-  <br>
   <br>
  
  <div align="center">
@@ -73,12 +62,12 @@
 </p>
 
 #### Front End Development:
-<p align="center"> 
+<div  style="display: inline_block"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-</p>
+</div>
 
 #### Database:
 <p align="center"> 
@@ -96,4 +85,4 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
-
+  
