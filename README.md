@@ -4,11 +4,6 @@
 </div> 
 
 
-<div align ='center'>
-  <h2> Minha Musica favorita </h2>
-<img src = "https://spotify-github-profile.vercel.app/api/view?uid=31o2szwvszbaxaxntowvu3wrn4ja&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile "/>
-   </div>
- 
   <br>
 <div align="center">
 <h1>👨‍💻 Informações do meu Github</h1>
