@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23DD6387&center=true&vCenter=true&lines=Hello!+World+eu+sou+o+João!;Bem+vindos+ao+Meu+profile!" alt="Typing SVG"> 👋
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23DD6387&center=true&vCenter=true&lines=Hello!+World+I'm+John!;Welcome+to+my+profile!" alt="Typing SVG"> 👋
 <br>
 </div> 
 
 
   <br>
 <div align="center">
-<h1>👨‍💻 Informações do meu Github</h1>
+<h1>👨‍💻 Informations of my Github</h1>
   <div align="center">
   <a href="https://github.com/Otavio17061992">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Otavio17061992&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -24,7 +24,7 @@
   <br>
  
  <div align="center">
-  <h1>👨‍💻👨‍🎨Minhas Habilidadess</h1>
+  <h1>👨‍💻👨‍🎨My Skills</h1>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Jon-Csharp" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -36,7 +36,7 @@
                  
   </div>
 <div align="center">
-  <h1>Social 🌎</h1>
+  <h1>Social Media 🌎</h1>
 <a href="https://www.instagram.com/jubileu.life/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:contato@joaoalmeida48@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/otavio17061992/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
