@@ -5,24 +5,7 @@
 
 
   <br>
-<div align="center">
-<h1>👨‍💻 Informations of my Github</h1>
-  <div align="center">
-  <a href="https://github.com/Otavio17061992">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Otavio17061992&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otavio17061992&layout=compact&langs_count=7&theme=dracula"/>
-</div>
- 
-  
-  <p align="center">
 
-  <a alt="trophy" href="https://github.com/Otavio17061992">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=Otavio17061992&theme=tokyonight"/>
-  </a>
-  
-  </p> 
-  <br>
- 
  <div align="center">
   <h1>👨‍💻👨‍🎨My Skills</h1>
   
