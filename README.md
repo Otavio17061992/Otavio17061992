@@ -1,67 +1,73 @@
+# Projeto Dev Completão
+
+Meu projeto Dev Completão é uma jornada de aprendizado contínuo que visa me transformar em um desenvolvedor Fullstack até o final de 2024. Aqui está um breve resumo do meu roadmap:
+
+## Roadmap
+
+- 📚 Lógica de programação e algoritmos em C
+- 🧮 Tipos de variáveis e alocação de memória
+- ⚙️ Pilha, fila, Tabela Hash
+- 💡 Desafios de programação
+- 🖥️ Linguagem de programação C#
+- 🧬 Orientação a objetos em C#
+- 📊 Banco de dados SQL Server
+- 🌐 ASP.NET com Angular
+
+## Sobre Mim
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%23DD6387&center=true&vCenter=true&lines=Hello+World+I'm+John!;Welcome+to+my+profile!" alt="Typing SVG"> 👋
+</div>
+
 <br>
-</div> 
 
-
-  <br>
-
- <div align="center">
+<div align="center">
   <h1>👨‍💻👨‍🎨My Skills</h1>
   
-<div style="display: inline_block"><br>
-  <img align="center" alt="Jon-Csharp" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Jon-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jon-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jon-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jon-node" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Jon-react" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-                 
+  <div style="display: inline_block"><br>
+    <img align="center" alt="Jon-Csharp" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+    <img align="center" alt="Jon-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Jon-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Jon-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Jon-node" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img align="center" alt="Jon-react" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   </div>
+</div>
+
 <div align="center">
   <h1>Social Media 🌎</h1>
-<a href="https://www.instagram.com/jubileu.life/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:contato@joaoalmeida48@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/otavio17061992/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-  
-  ![Snake animation](https://github.com/Otavio17061992/Otavio17061992/blob/output/github-contribution-grid-snake.svg)
-  
 
-
-
-  
-
-   Techs:
-
-#### Programing Languages:
-<p align="center"> 
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-</p>
-
-#### Front End Development:
-<div  style="display: inline_block"> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://otavio17061992.github.io/ProjetoPortf-lio2/)
+  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otavio17061992/)
+  [![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/programerjon/)
+  [![tiktok](https://img.shields.io/badge/tiktok-000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@dev_dequebrada/)
 </div>
 
-#### Database:
-<p align="center"> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-</p>
+## Habilidades
 
-#### Software:
-<p align="center"> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-</p>
+- 💼 Linguagens: C#, Python, Javascript, HTML, CSS.
+- 🌐 Web: ASP.NET.
+- 🛢️ Banco de Dados: SQL Server.
+- 🚀 Versionamento: Git.
+- 🔧 Ferramentas: Visual Studio, Visual Studio Code.
 
-#### Other:
-<p align="center"> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-</p>
-  
+## Projetos
+
+- 💡 Tenho trabalhado em projetos pessoais e acadêmicos relacionados a ASP.NET e SQL Server.
+- 🐍 Também contribuo para projetos open source em Python.
+
+## Contato
+
+- 📫 Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/otavio17061992/).
+- 📧 Meu e-mail: joaodevelopercsharp@gmail.com.
+- 📱 Redes Sociais: [Instagram](https://www.instagram.com/programerjon/), [TikTok](https://www.tiktok.com/@dev_dequebrada/).
+
+## Interesses
+
+- 📚 Além da programação, gosto de ler, aprender coisas novas e explorar novas tecnologias.
+- 🎮 Sou um entusiasta de jogos de vídeo game e ocasionalmente jogo quando tenho tempo livre.
+- ☕ Adoro tomar um bom café enquanto codifico.
+
+Fique à vontade para entrar em contato comigo para discutir projetos, colaborações ou apenas para bater um papo sobre desenvolvimento de software e tecnologia. Estou sempre em busca de novas oportunidades de aprendizado e crescimento.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Otavio17061992&show_icons=true&theme=dark)
