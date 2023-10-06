@@ -1,7 +1,10 @@
 # Projeto Dev Completão
 
 Meu projeto Dev Completão é uma jornada de aprendizado contínuo que visa me transformar em um desenvolvedor Fullstack até o final de 2024. Aqui está um breve resumo do meu roadmap:
-
+<div align="center">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Otavio17061992&layout=compact)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Otavio17061992&show_icons=true&theme=dark)
+</div
 ## Roadmap
 
 - 📚 Lógica de programação e algoritmos em C
@@ -23,8 +26,6 @@ Meu projeto Dev Completão é uma jornada de aprendizado contínuo que visa me t
 
 <div align="center">
   <h1>👨‍💻👨‍🎨My Skills</h1>
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Otavio17061992)](https://github.com/Otavio17061992/github-readme-stats)
   
   <div style="display: inline_block"><br>
     <img align="center" alt="Jon-Csharp" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -70,4 +71,4 @@ Meu projeto Dev Completão é uma jornada de aprendizado contínuo que visa me t
 
 Fique à vontade para entrar em contato comigo para discutir projetos, colaborações ou apenas para bater um papo sobre desenvolvimento de software e tecnologia. Estou sempre em busca de novas oportunidades de aprendizado e crescimento.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Otavio17061992&show_icons=true&theme=dark)
+
