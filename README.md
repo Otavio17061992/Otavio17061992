@@ -1,5 +1,5 @@
 # Projeto Dev Completão
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Otavio17061992&layout=compact) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Otavio17061992&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Otavio17061992&layout=donut-vertical)](https://github.com/Otavio17061992/github-readme-stats) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Otavio17061992&show_icons=true&theme=dark)
 
 Meu projeto Dev Completão é uma jornada de aprendizado contínuo que visa me transformar em um desenvolvedor Fullstack até o final de 2024. Aqui está um breve resumo do meu roadmap:
 
