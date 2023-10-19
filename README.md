@@ -1,7 +1,7 @@
 # Projeto Dev Completão
 
 #Meu Site Front ;)
-<a href="devjonportfolio.netlify.app"> Clique em Mim</a>
+<a href="https://devjonportfolio.netlify.app"> Clique em Mim</a>
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Otavio17061992&show_icons=true&theme=synthwave)
