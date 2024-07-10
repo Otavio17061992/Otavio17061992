@@ -30,7 +30,10 @@
 - 📊 Banco de dados SQL Server
 - 🖥️ Docker e Containers
 - 🌐 ASP.NET com Angular
-
+  <br>
+  <br>
+  <br>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/664feff0d6b907c7f78ab472?variant=dark&roadmaps=backend" alt="roadmap.sh"/></a>
 <h2>Sobre Mim</h2>
 <br>
 <div align="center">
