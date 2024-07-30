@@ -1,9 +1,10 @@
-[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 
 <h1 align="center">Hi 👋, I'm João Mesquita</h1>
 <img align="right" alt="Coding" width="330" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 <br>
+
+
 <div align="center">
   <h3 align="left">👨‍💻Languages and Tools:</h3>
   
@@ -17,11 +18,17 @@
     <img align="left" alt="Jon-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   </div>
 </div>
+<br>
+<br>
+<br>
+<h2 align="center">Sobre Mim</h2>
+<p>- 📚 Além da programação, gosto de ler, aprender coisas novas e explorar novas tecnologias.</p>
+<p>- 🎮 Sou um entusiasta de jogos de vídeo game e ocasionalmente jogo quando tenho tempo livre.</p>
+<p>- ☕ Adoro tomar um bom café enquanto codifico.</p>
+<br>
+<br>
+  <br>
 
-  <br>
-  <br>
-  <br>
-  <br>
 <div>
   <h1 align="center"> Github Informations </h1>
 </div>
@@ -48,9 +55,4 @@
   [![tiktok](https://img.shields.io/badge/tiktok-000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@dev_dequebrada/)
 </div>
 <br>
-<br>
-<h2 align="center">Sobre Mim</h2>
-<p>- 📚 Além da programação, gosto de ler, aprender coisas novas e explorar novas tecnologias.</p>
-<p>- 🎮 Sou um entusiasta de jogos de vídeo game e ocasionalmente jogo quando tenho tempo livre.</p>
-<p>- ☕ Adoro tomar um bom café enquanto codifico.</p>
 <br>
