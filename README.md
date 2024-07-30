@@ -21,6 +21,8 @@
 <br>
 <br>
 <br>
+<br>
+<br>
 <h2 align="center">Sobre Mim</h2>
 <p>- 📚 Além da programação, gosto de ler, aprender coisas novas e explorar novas tecnologias.</p>
 <p>- 🎮 Sou um entusiasta de jogos de vídeo game e ocasionalmente jogo quando tenho tempo livre.</p>
