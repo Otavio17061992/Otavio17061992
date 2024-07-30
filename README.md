@@ -30,16 +30,15 @@
 <div style="display: inline_block" align="center">
   <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/664feff0d6b907c7f78ab472?variant=dark&roadmaps=backend" alt="roadmap.sh" /></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Otavio17061992&show_icons=true&locale=en&layout=compact" alt="Otavio17061992" width="350"/>
-</div>
-<div style="display: inline_block" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Otavio17061992&show_icons=true&locale=en" alt="Otavio17061992" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Otavio17061992&show_icons=true&locale=en" alt="Otavio17061992" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Otavio17061992" alt="Otavio17061992" />
 </div>
-
 
 <br>
 <br>
   <h1 align="center">Social Media 🌎</h1>
+  <br>
+  <br>
 <div align="center">
 
 
