@@ -3,11 +3,17 @@
 <img align="right" alt="Coding" width="330" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 <br>
+<p><em>Data Analyst at <a href="https://www.comerc.com.br">Comerc Energy</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<div align="center">
 
-
+  [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://otavio17061992.github.io/ProjetoPortf-lio2/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otavio17061992/)
+  [![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/programerjon/)
+  [![tiktok](https://img.shields.io/badge/tiktok-000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@dev_dequebrada/)
+</div>
 <div align="center">
   <h3 align="left">👨‍💻Languages and Tools:</h3>
-  
+
   <div style="display: inline_block"><br>
     <img align="left" alt="Jon-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="left" alt="Jon-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -58,13 +64,6 @@ Pessoa pessoaDev = new Pessoa
   <h1 align="center">Social Media 🌎</h1>
   <br>
   <br>
-<div align="center">
 
-
-  [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://otavio17061992.github.io/ProjetoPortf-lio2/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otavio17061992/)
-  [![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/programerjon/)
-  [![tiktok](https://img.shields.io/badge/tiktok-000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@dev_dequebrada/)
-</div>
 <br>
 <br>
