@@ -8,7 +8,6 @@
   <h3 align="center">Social Media 🌎</h3>
   <div align="center">
 
-  [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://otavio17061992.github.io/ProjetoPortf-lio2/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otavio17061992/)
   [![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/programerjon/)
   [![tiktok](https://img.shields.io/badge/tiktok-000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@dev_dequebrada/)
