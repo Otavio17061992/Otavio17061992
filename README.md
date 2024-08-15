@@ -3,8 +3,10 @@
 <img align="right" alt="Coding" width="330" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 <br>
-<p><em>Data Analyst at <a href="https://www.comerc.com.br">Comerc Energy</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<div align="center">
+<p><em>Data Analyst at <a href="https://www.comerc.com.br">Comerc Energy</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
+
+  <h3 align="center">Social Media 🌎</h3>
+  <div align="center">
 
   [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://otavio17061992.github.io/ProjetoPortf-lio2/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otavio17061992/)
@@ -61,9 +63,7 @@ Pessoa pessoaDev = new Pessoa
 
 <br>
 <br>
-  <h1 align="center">Social Media 🌎</h1>
-  <br>
-  <br>
+  
 
 <br>
 <br>
