@@ -23,14 +23,26 @@
 <br>
 <br>
 <br>
-<h2 align="center">Sobre Mim</h2>
-<p>- 📚 Além da programação, gosto de ler, aprender coisas novas e explorar novas tecnologias.</p>
-<p>- 🎮 Sou um entusiasta de jogos de vídeo game e ocasionalmente jogo quando tenho tempo livre.</p>
-<p>- ☕ Adoro tomar um bom café enquanto codifico.</p>
-<br>
-<br>
-  <br>
 
+```csharp 
+public class Pessoa 
+{
+  public string Pronomes {get; set;}
+  public string Name {get; set;}
+  public int Idade {get; set;}
+  public List<string> Architecture {get; set;}
+  public List<string> Tools {get; set;}
+}
+
+Pessoa pessoaDev = new Pessoa
+{
+    Pronomes = "He | His",
+    Name = "João",
+    Idade = 30,
+    Architecture = new List<string> {"microservices", "event-driven", "design system pattern"},
+    Tools = new List<string> { "TypeScript", "C#" , "JavaScript", "React", "Docker"}
+};
+```
 <div>
   <h1 align="center"> Github Informations </h1>
 </div>
