@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="330" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 <br>
-<p><em>Data Analyst at <a href="https://www.comerc.com.br">Comerc Energy</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
+<p><em>Application Analyst at <a href="https://www.comerc.com.br">Comerc Energy</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
   <h3 align="center">Social Media 🌎</h3>
   <div align="center">
