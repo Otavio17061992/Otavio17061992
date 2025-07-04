@@ -50,6 +50,70 @@ Pessoa pessoaDev = new Pessoa
     Tools = new List<string> { "TypeScript", "C#" , "JavaScript", "React", "Docker"}
 };
 ```
+
+```cpp
+#include <iostream>
+#include <string>
+#include <vector>
+
+using namespace std;
+
+class Pessoa
+{
+    public:
+        string Pronomes;
+        string Name;
+        int Idade;
+        vector<string> Architecture;
+        vector<string> Tools;
+
+
+        Pessoa() : Pronomes(""), Name(""), Idade(0) {} 
+
+        Pessoa(const string& pronomes, const string& name, int idade,
+               const vector<string>& architecture,
+               const vector<string>& tools)
+             : Pronomes(pronomes), Name(name), Idade(idade),
+               Architecture(architecture), Tools(tools) {}
+
+            void exibirInfo() const
+            {
+                cout << "Nome: " << Name << endl;
+                cout << "Pronomes: " << Pronomes << endl;
+                cout << "Idade: " << Idade << " anos" << endl;
+
+                cout << "Arquiteturas: ";
+                for (const string& arch : Architecture)
+                {
+                    cout << arch << " | ";
+                }
+                cout << endl;
+
+                cout << "Ferramentas: ";
+                for (const string& tool : Tools)
+                {
+                    cout << tool << " | ";
+                }
+                cout << endl;
+            }
+
+};
+
+int main() {
+    Pessoa pessoaDev(
+        "He | His",
+        "João",
+        30,
+        {"microservices", "event-driven", "design system pattern"},
+        {"TypeScript", "C#", "JavaScript", "React", "Docker"}
+    );
+
+    pessoaDev.exibirInfo();
+
+    return 0;
+};
+```
+
 <div>
   <h1 align="center"> Github Informations </h1>
 </div>
