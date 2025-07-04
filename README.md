@@ -22,7 +22,7 @@
     <img align="left" alt="Jon-Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
     <img align="left" alt="Jon-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="left" alt="Jon-Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="left" alt="Jon-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="left" alt="Jon-C++" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/C++/C++-original.svg">
   </div>
 </div>
 <br>
