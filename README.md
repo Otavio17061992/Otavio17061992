@@ -9,7 +9,7 @@
   <div align="center">
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otavio17061992/)
-  [![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/programerjon/)
+  [![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codafofo.ocx/)
   [![tiktok](https://img.shields.io/badge/tiktok-000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@dev_dequebrada/)
 </div>
 <div align="center">
