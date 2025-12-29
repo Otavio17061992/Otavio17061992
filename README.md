@@ -51,16 +51,6 @@ Pessoa pessoaDev = new Pessoa
 };
 ```
 
-<div>
-  <h1 align="center"> Github Informations </h1>
-</div>
-<br>
-<br>
-<div style="display: inline_block" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Otavio17061992&show_icons=true&locale=en&layout=compact" alt="Otavio17061992" width="350"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=Otavio17061992&show_icons=true&locale=en" alt="Otavio17061992" />
-</div>
-
 <br>
 <br>
   
